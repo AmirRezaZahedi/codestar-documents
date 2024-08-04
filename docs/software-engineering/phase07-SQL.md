@@ -505,3 +505,33 @@ SELECT ParticipantStudentNumber, COUNT(ParticipantStudentNumber)
 FROM Enrollment
 GROUP BY ParticipantStudentNumber;
 ```
+# SQL Practice Problems
+
+## Introduction
+
+Introducing the book "SQL Practice Problems" by Sylvia Moestl Vasilik. This book provides a range of SQL query problems from beginner to advanced levels. The questions are designed in a way that you can solve them using the hints provided after each question, allowing you to learn query writing simultaneously. There is also an answer key at the end of the book.
+
+[https://dl.ebooksworld.ir/books/SQL.Practice.Problems.Sylvia.Moestl.Vasilik.9781520807638.EBooksWorld.ir.pdf](link-to-the-book)
+
+## Data Setup
+
+The book includes a set of pre-prepared data for you to write queries on. Therefore, to work with this book, you need to set up a SQL Server on your system and load the tables and data provided in this repository.
+
+### Required Files:
+
+- `mysqldata.sql`
+- `mysqltables.sql`
+Make sure to refer to these files.
+
+[https://github.com/emiliawk/sql_practice_problems](link-to-the-github)
+
+
+## Getting Started
+
+1. Set up a SQL Server on your system.
+2. Load the tables and data using the files mentioned above.
+3. Start solving the problems in the book using the provided hints.
+4. Check your answers with the answer key at the end of the book.
+
+Happy learning and good luck!
+
